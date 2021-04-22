@@ -104,5 +104,16 @@ Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
 ![image](https://user-images.githubusercontent.com/56473376/115509541-c3e98a80-a2a8-11eb-82a4-7d9ac02b622b.png)
 
 
+Pertanyaan dan Tugas
+1. Tambahkan Layout untuk menu About
+=> buat single layout yang berisi deskripsi, portfolio, dll
+
+![image](https://user-images.githubusercontent.com/56473376/115674011-6ec87a00-a377-11eb-9d6a-9b123b6a77d2.png)
+
+2. Tambahkan layout untuk menu Contact
+=> yang berisi form isian: nama, email, message, dll
+
+![image](https://user-images.githubusercontent.com/56473376/115675487-d3d09f80-a378-11eb-92a6-d62ab540d502.png)
+
 
 
